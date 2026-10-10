@@ -15,6 +15,10 @@ mvn test
 One test fails on purpose. Diagnosing and fixing it is Milestone 1.
 By the way: the fix may not be where the failing test first points you. :-)
 
+## AI tools used
+
+This fork was completed with the Marvis desktop assistant (Tencent Hunyuan Hy3 / DeepSeek-V4 Pro) as the AI coding agent; session transcripts are kept locally under `transcripts/` and are not committed.
+
 ## Where things are
 
 - Source: `src/main/java/edu/cmu/cs214/booking/` (`domain/`, `service/`, `repo/`)
